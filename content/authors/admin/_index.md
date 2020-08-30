@@ -3,7 +3,7 @@ authors:
 - admin
 bio: Hello
 education:
-  courses: Communication with Data
+  courses:
   - course: Masters of Business Analytics
     year: 2021
 email: "mqas0003@student.monash.edu"
@@ -11,9 +11,9 @@ interests:
 - Statistics
 - Machine Learning
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Monash University
+  url: "www.monash.edu"
+role: Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,7 +28,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Muhammad Soban Qasim
 user_groups:
 - Researchers
 - Visitors
