@@ -10,6 +10,7 @@ email: "mqas0003@student.monash.edu"
 interests:
 - Statistics
 - Machine Learning
+- Data Analytics
 organizations:
 - name: Monash University
   url: "www.monash.edu"
