@@ -1,12 +1,12 @@
 ---
 authors:
-- admin
+- Muhammad Soban Qasim
 bio: Hello
 education:
-  courses:
+  courses: Communication with Data
   - course: Masters of Business Analytics
     year: 2021
-email: ""
+email: "mqas0003@student.monash.edu"
 interests:
 - Statistics
 - Machine Learning
