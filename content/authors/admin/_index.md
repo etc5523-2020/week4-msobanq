@@ -1,6 +1,6 @@
 ---
 authors:
-- Muhammad Soban Qasim
+- admin
 bio: Hello
 education:
   courses: Communication with Data
